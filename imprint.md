@@ -7,7 +7,7 @@ header-img: "img/imprint-bg.png"
 
 # Imprint (Impressum)
 
-## Information
+## Angaben gemäß § 5 DDG
 
 **Phillip Bösger**  
 Bachstraße 5 i  
@@ -15,11 +15,16 @@ Bachstraße 5 i
 Germany
 
 **Contact:**  
-Email: [photography@boesger.com](mailto:photography@boesger.com)
+Email: [photography@boesger.com](mailto:photography@boesger.com)<br>
+[Kontaktformular](https://boesger.com/contact.html#contact-form)
 
 ---
 
-## Responsible for Content
+## Umsatzsteuer-Identifikationsnummer
+
+USt-IdNr. gemäß § 27a UStG: DE457610442
+
+## Verantwortlich gemäß § 18 Abs. 2 MStV
 
 Phillip Bösger  
 (Address as above)
@@ -43,3 +48,8 @@ This website contains links to external websites of third parties, over whose co
 The content and works on this website are subject to copyright law. Duplication, processing, distribution, or any kind of use outside the limits of copyright law require the prior written consent of the author. Downloads and copies of this site are only permitted for private, non-commercial use.
 
 Where content on this page was not created by the operator, the copyrights of third parties are respected. Should you become aware of a copyright infringement, please inform me accordingly. Upon becoming aware of legal violations, I will remove such content immediately.
+
+
+## Datenschutz
+
+[Datenschutzerklärung](/privacy/)
